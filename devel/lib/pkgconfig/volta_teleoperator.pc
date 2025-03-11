@@ -1,0 +1,8 @@
+prefix=/home/airl010/projects/ros-volta-simulation/devel
+
+Name: volta_teleoperator
+Description: Description of volta_teleoperator
+Version: 1.1.1
+Cflags: -I/home/airl010/projects/ros-volta-simulation/src/volta/volta_teleoperator/include
+Libs: -L${prefix}/lib -ljoy_teleop
+Requires: 

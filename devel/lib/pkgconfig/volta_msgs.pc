@@ -1,0 +1,8 @@
+prefix=/home/airl010/projects/ros-volta-simulation/devel
+
+Name: volta_msgs
+Description: Description of volta_msgs
+Version: 1.1.1
+Cflags: -I/home/airl010/projects/ros-volta-simulation/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

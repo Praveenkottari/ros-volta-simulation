@@ -1,0 +1,8 @@
+prefix=/home/airl010/projects/ros-volta-simulation/devel
+
+Name: volta_simulation
+Description: Description of volta_simulation
+Version: 1.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

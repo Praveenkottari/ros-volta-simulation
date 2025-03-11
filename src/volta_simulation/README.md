@@ -1,7 +1,10 @@
 # Volta
 ROS packages used to run the Volta in simulation
 
-* volta_simulation - Gazebo simulation world file.
+## Steps simulation:
+Python=>3.8 (prefreble 3.10)
+Ros_distro : Noetic
+
 
 ## Steps to Launch Volta:
 
